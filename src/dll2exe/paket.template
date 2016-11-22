@@ -1,0 +1,23 @@
+type project
+title
+    dll2exe
+owners
+    ohwang
+authors
+    ohwang
+projectUrl
+    https://github.com/ohwang/dll2exe/ohwang/dll2exe
+iconUrl
+    https://raw.githubusercontent.com/ohwang/dll2exe/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/ohwang/dll2exe/ohwang/dll2exe/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2016
+tags
+    dll exe compiler tool
+summary
+    Convert CLR library into executable (or just run it)
+description
+    dll2exe converts CLR dll to exe so you can run it. You can also just run the dll by specify an entry point.
