@@ -32,7 +32,7 @@ let project = "dll2exe"
 
 // Short summary of the project
 // (used as description in AssemblyInfo and as a short summary for NuGet package)
-let summary = "Convert .NET into executable (or just run it)"
+let summary = "Convert CLR library into executable (or just run it)"
 
 // Longer description of the project
 // (used as a description for NuGet package; line breaks are automatically cleaned up)
